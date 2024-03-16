@@ -64,7 +64,7 @@
 ## `Technologies Used`
 - [Flutter](https://flutter.dev/)
 - [Firebase](https://firebase.google.com/)
-- [google apis](https://cloud.google.com/)
+- [Google APIs](https://cloud.google.com/)
 
 
 ## `Features`
@@ -113,4 +113,6 @@ Thank you for contributing to SolveQuery! 🌟
 * [Kavan Desai](https://github.com/Kavannl)
 
 # ⭐️ `Star Us`
+- **If you find SolveQuery helpful and want to support us, please consider starring our repository as a token of appreciation. Thank you!**
+
 - **If you find SolveQuery helpful and want to support us, please consider starring our repository as a token of appreciation. Thank you!**
