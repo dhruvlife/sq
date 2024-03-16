@@ -1,0 +1,117 @@
+name: sq
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.5 <4.0.0'
+
+
+
+#--------------- PACKAGES ------------------#
+dependencies:
+  flutter:
+    sdk: flutter
+  dialog_flowtter: ^0.3.3
+
+  # Utility Packages
+  #http: ^1.0.1
+  http: ^0.13.1
+  intl: ^0.19.0
+  logger: ^2.0.1
+  url_launcher: ^6.1.12
+  connectivity: ^3.0.6
+  smooth_page_indicator: ^1.1.0
+  loading_animation_widget: ^1.2.1
+
+
+  
+
+  # Icons
+  iconsax: ^0.0.8
+  cupertino_icons: ^1.0.2
+  
+
+  # State Management
+  get: ^4.6.5
+  get_storage: ^2.1.1
+
+  # Product Specific
+  readmore: ^2.2.0
+  carousel_slider: ^4.2.1
+  flutter_rating_bar: ^4.0.1
+  capped_progress_indicator: ^0.0.2
+  flutter_animated_button: ^2.0.3
+  adaptive_theme: ^3.6.0
+  firebase_core_web: ^2.11.5
+  web: ^0.4.2
+ 
+   
+
+  #firebase
+  firebase_auth: ^4.16.0
+  firebase_core: ^2.25.5
+  cloud_firestore: ^4.15.5
+  fluttertoast: ^8.2.4
+  webview_flutter: ^4.6.0
+  flutter_inappwebview: ^6.0.0
+  google_sign_in: ^6.2.1
+  firebase_auth_web: ^5.9.8
+  cloud_firestore_web: ^3.10.8
+  flutter_launcher_icons: ^0.13.1
+  
+
+  #--------------- ./ PACKAGES END ------------------#
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.1
+
+  flutter_launcher_icons: "^0.13.1"
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/logos/sqlogo.png"
+
+
+flutter:
+  uses-material-design: true
+
+  #--------------- LOCAL ASSETS ------------------#
+  assets:
+    - assets/logos/
+    - assets/icons/brands/
+    - assets/images/content/
+    - assets/images/banners/
+    - assets/images/reviews/
+    - assets/images/products/
+    - assets/icons/categories/
+    - assets/images/animations/
+    - assets/icons/payment_methods/
+    - assets/images/on_boarding_images/
+    - assets/dialog_flow_auth.json
+    #- assets/chat/sq-lpax-caac81167abe.json
+
+  #--------------- LOCAL FONTS ------------------#
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Light.ttf
+          weight: 300
+        - asset: assets/fonts/Poppins-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Poppins-Italic.ttf
+          style: italic
+        - asset: assets/fonts/Poppins-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Poppins-MediumItalic.ttf
+          weight: 500
+          style: italic
+        - asset: assets/fonts/Poppins-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Poppins-Bold.ttf
+          weight: 800
+          
