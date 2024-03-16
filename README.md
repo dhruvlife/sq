@@ -110,6 +110,7 @@ Thank you for contributing to SolveQuery! 🌟
 
 * [Dhruv Thakkar](https://github.com/dhruvlife)
 * [Kirtan Prajapati](https://github.com/kirtan-prajapati)
+* [Kavan Desai](https://github.com/Kavannl)
 
 # ⭐️ `Star Us`
 - **If you find SolveQuery helpful and want to support us, please consider starring our repository as a token of appreciation. Thank you!**
