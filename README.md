@@ -15,7 +15,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://github.com/dhruvlife/sq)
   
   
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&color=F72288&size=30&center=true&vCenter=true&width=600&height=80&lines=Empowering+CS%2FIT+students+with+SolveQuery)](https://github.com/dhruvlife/sq)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&color=F72288&size=30&center=true&vCenter=true&width=650&height=80&lines=Empowering+CS%2FIT+students+with+SolveQuery)](https://github.com/dhruvlife/sq)
  
  
 </div>
