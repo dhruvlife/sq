@@ -64,8 +64,8 @@
 ## `Technologies Used`
 - [Flutter](https://flutter.dev/)
 - [Firebase](https://firebase.google.com/)
-- [Django](https://www.djangoproject.com/)
-- [SQLite](https://www.sqlite.org/)
+- [google apis](https://www.cloud.google.com/)
+
 
 ## `Features`
 - **Community Interaction**: Engage in discussions, ask questions, and share your knowledge with other students.
