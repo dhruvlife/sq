@@ -8,7 +8,7 @@
 
 
 <p align="center">
-<img  width="400" height="400" src="https://raw.githubusercontent.com/dhruvlife/sq/master/assets/logos/sqlogo.png">
+<img  width="400" height="400" src="https://raw.githubusercontent.com/dhruvlife/sq/main/assets/logos/sqlogo.png">
 </p>
 
   
