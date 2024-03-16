@@ -64,7 +64,7 @@
 ## `Technologies Used`
 - [Flutter](https://flutter.dev/)
 - [Firebase](https://firebase.google.com/)
-- [google apis](https://www.cloud.google.com/)
+- [google apis](https://cloud.google.com/)
 
 
 ## `Features`
