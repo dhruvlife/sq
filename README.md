@@ -8,7 +8,7 @@
 
 
 <p align="center">
-<img  width="400" height="400" src="https://via.placeholder.com/400x400">
+<img  width="400" height="400" src="https://raw.githubusercontent.com/dhruvlife/sq/master/assets/logos/wlogo.png">
 </p>
 
   
