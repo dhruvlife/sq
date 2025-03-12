@@ -79,9 +79,9 @@ Meet the creative minds behind SolveQuery:
 
 ## 👁️ Total Visitors : 
 
-<img align="left" src="https://profile-counter.glitch.me/dhruvlife/count.svg" alt="Profile Views">
+<img align="left" src="https://profile-counter.glitch.me/sq/count.svg" alt="loading">
 
-
+https://github.com/dhruvlife/sq/
 -
 ---
 
