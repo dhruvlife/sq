@@ -73,6 +73,20 @@ Meet the creative minds behind SolveQuery:
 - [Kirtan Prajapati](https://github.com/kirtan-prajapati)
 - [Kavan Desai](https://github.com/Kavannl)
 
+  
+
+Total Visitors : 
+
+
+<img align="left" src="https://profile-counter.glitch.me/dhruvlife/count.svg" alt="Profile Views">
+
+
+
+
+-
+---
+
+
 # ⭐️ `Star Us`
 
 If you believe in the mission of SolveQuery and the impact it can create, show your support by starring our repository! Together, let's build a thriving community of learners and innovators.
