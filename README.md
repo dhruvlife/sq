@@ -74,7 +74,7 @@ Meet the creative minds behind SolveQuery:
 - [Kavan Desai](https://github.com/Kavannl)
 
   
----
+--
 
 
 Total Visitors : 
@@ -86,7 +86,7 @@ Total Visitors :
 
 
 -
----
+--
 
 
 # ⭐️ `Star Us`
